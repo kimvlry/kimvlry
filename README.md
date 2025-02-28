@@ -3,5 +3,5 @@
     hi there, i'm <a href="https://t.me/kimvlry">valerie</a> 
   </h2>
   
-  ![](gh.gif)
+  ![](gh2.gif)
 </div>
